@@ -1,4 +1,4 @@
-![container00](https://github.com/user-attachments/assets/6932c4aa-a56d-4eaa-824c-e0fe4ed0cab4)
+![container00]([https://github.com/user-attachments/assets/6932c4aa-a56d-4eaa-824c-e0fe4ed0cab4](https://raw.githubusercontent.com/rohitadepu07/My_Portfolio/main/image.png))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Leveling+Up+.+.+.+)](https://git.io/typing-svg)
 ---
@@ -11,7 +11,7 @@ I'm a **First-Year CS Undergrad & Developer** 💻🚀 who enjoys building web a
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently a B.Sc. Computer Science student at **Ashoka University**
+- 🌱 Currently a BE in Computer Science student
 - 💻 Building AI-powered solutions like **ScrapIQ**, **Purely AI**, and **Maaya FactCheck**
 - ❤️ Passionate about using technology to address **UN Sustainable Development Goals** and social issues
 - 👯 Looking to collaborate on **Hackathons, Web3, and Open-Source projects**
@@ -29,7 +29,6 @@ I'm a **First-Year CS Undergrad & Developer** 💻🚀 who enjoys building web a
 
 #### 🗄️ Backend & Databases
 - Supabase
-- MongoDB
 - Firebase
 
 #### 💻 Programming & Fundamentals
@@ -43,13 +42,18 @@ I'm a **First-Year CS Undergrad & Developer** 💻🚀 who enjoys building web a
 
 ---
 
+### 📫 Check My Web Portfolio
+- <a href="https://rohitadepu07.github.io/My_Portfolio/" target="_blank">
+
+---
+
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-adepu-a52059329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="#">
+  <a href="rohitadepu27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
