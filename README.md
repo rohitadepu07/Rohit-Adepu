@@ -43,7 +43,7 @@ I'm a **First-Year CS Undergrad & Developer** 💻🚀 who enjoys building web a
 ---
 
 ### 📫 Check My Web Portfolio
-- <a link="https://rohitadepu07.github.io/My_Portfolio/" target="Click_here">
+- <a herf="https://rohitadepu07.github.io/My_Portfolio/" target="Click_here">
 
 ---
 
