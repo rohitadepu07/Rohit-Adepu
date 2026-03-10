@@ -43,7 +43,9 @@ I'm a **First-Year CS Undergrad & Developer** 💻🚀 who enjoys building web a
 ---
 
 ### 📫 Check My Web Portfolio
-- <a herf="https://rohitadepu07.github.io/My_Portfolio/" target="Click_here">
+- <a href="https://rohitadepu07.github.io/My_Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Minecraft-themed Portfolio" />
+  </a>
 
 ---
 
