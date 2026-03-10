@@ -1,4 +1,4 @@
-![container00]([https://github.com/user-attachments/assets/6932c4aa-a56d-4eaa-824c-e0fe4ed0cab4](https://raw.githubusercontent.com/rohitadepu07/My_Portfolio/main/image.png))
+![container00](https://raw.githubusercontent.com/rohitadepu07/My_Portfolio/main/image.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Leveling+Up+.+.+.+)](https://git.io/typing-svg)
 ---
@@ -11,7 +11,7 @@ I'm a **First-Year CS Undergrad & Developer** 💻🚀 who enjoys building web a
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently a BE in Computer Science student
+- 🌱 Currently a BE Computer Science student
 - 💻 Building AI-powered solutions like **ScrapIQ**, **Purely AI**, and **Maaya FactCheck**
 - ❤️ Passionate about using technology to address **UN Sustainable Development Goals** and social issues
 - 👯 Looking to collaborate on **Hackathons, Web3, and Open-Source projects**
